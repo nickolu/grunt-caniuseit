@@ -1,0 +1,19 @@
+{
+  "name": "grunt-caniuseit",
+  "version": "1.0.0",
+  "description": "validates files with caniuse.com database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickolusroy/grunt-caniuseit.git"
+  },
+  "author": "Nickolus Cunningham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickolusroy/grunt-caniuseit/issues"
+  },
+  "homepage": "https://github.com/nickolusroy/grunt-caniuseit#readme"
+}

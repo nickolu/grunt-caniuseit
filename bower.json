@@ -1,0 +1,20 @@
+{
+  "name": "grunt-caniuseit",
+  "description": "validates files with caniuse.com database",
+  "main": "index.js",
+  "authors": [
+    "Nickolus Cunningham"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nickolusroy/grunt-caniuseit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "caniuse": "https://github.com/Fyrd/caniuse.git"
+  }
+}
